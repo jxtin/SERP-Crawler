@@ -74,12 +74,7 @@ Alternatively a more direct method of running the crawler is to run the `scrape.
 python scrape.py
 ```
 
-
-<!-- add video media/SERP_Scraper.mp4-->
-<!-- add video media/data_walkthrough.webm-->
-[![SERP_Scraper Video](media/SERP_Scraper.mp4)](media/SERP_Scraper.mp4)
-[![Data Walkthrough Video](media/data_walkthrough.webm)](media/data_walkthrough.webm)
-
+Video of the crawler in action can be found [here](https://drive.google.com/drive/folders/1C0iyKHZIJqctcNyCzI29zvh5EoMpyIci?usp=sharing)
 
 <!-- add 1.png,2.png, 3.png -->
 ![1.png](media/1.png)
